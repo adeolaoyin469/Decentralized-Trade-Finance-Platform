@@ -5,3 +5,5 @@ T
 $contracts/exporter-verification.clar,d/e/decf870fbd29770a32e8ad084fd4222bd522f49e
 S
 #tests/exporter-verification.test.ts,a/d/adad041902d5c1f4167ec541706ca625474b3316
+T
+$contracts/importer-verification.clar,c/d/cd3115f4aae8dc0862f42dafb09fdf456983ed49
