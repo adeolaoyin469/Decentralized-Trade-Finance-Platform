@@ -7,3 +7,5 @@ S
 #tests/exporter-verification.test.ts,a/d/adad041902d5c1f4167ec541706ca625474b3316
 T
 $contracts/importer-verification.clar,c/d/cd3115f4aae8dc0862f42dafb09fdf456983ed49
+O
+contracts/letter-of-credit.clar,e/f/ef21300aac5918e8477a6fa52e422392393a876d
