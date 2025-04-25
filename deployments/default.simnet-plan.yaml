@@ -59,4 +59,14 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/importer-verification.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: letter-of-credit
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/letter-of-credit.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: payment-settlement
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/payment-settlement.clar
+            clarity-version: 2
       epoch: "2.5"
